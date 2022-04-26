@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-error",
+        "count": "45",
+        "title": "Unauthorized Activity"
+    },
+    {
+        "icon": "bx bx-cast",
+        "count": "250",
+        "title": "Authorized Activity"
+    },
+    {
+        "icon": "bx bx-hdd",
+        "count": "12",
+        "title": "Connected Devices"
+    },
+    {
+        "icon": "bx bx-receipt",
+        "count": "1,711",
+        "title": "Total"
+    }
+]

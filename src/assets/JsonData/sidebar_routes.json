@@ -1,0 +1,49 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Log Details",
+        "route": "/customers",
+
+        "icon": "bx bx-table"
+    },
+       
+    {
+        "display_name": "Devices",
+        "route": "/products",
+        "icon": "bx bx-devices"
+    },
+    {
+        "display_name": "Reports",
+        "route": "/orders",
+        "icon": "bx bx-detail"
+    },
+    {
+        "display_name": "Notifications",
+        "route": "/analytics",
+        "icon": "bx bx-notification"
+    },
+    {
+        "display_name": "Geofence",
+        "route": "/categories",
+        "icon": "bx bx-current-location"
+    },
+    {
+        "display_name": "Stream",
+        "route": "/discount",
+        "icon": "bx bx-tv"
+    },
+    {
+        "display_name": "Channel",
+        "route": "/inventory",
+        "icon": "bx bx-toggle-left"
+    },
+    {
+        "display_name": "settings",
+        "route": "/settings",
+        "icon": "bx bx-cog"
+    }
+]

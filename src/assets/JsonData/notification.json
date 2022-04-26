@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-error-alt",
+        "content": "Unauthorized movement detected: The chiller with ID XXXX has moved out of the authorized zone"
+    },
+    {
+        "icon": "bx bx-right-down-arrow-circle",
+        "content": "The chiller machine ID xxxx Has moved into the authorized zone."
+    },
+    {
+        "icon": "bx bx-time-five",
+        "content": "The usage of chiller machine ID-XXX is near to five hours."
+    },
+    {
+        "icon": "bx bx-error-alt",
+        "content": "Unauthorized movement detected: The chiller with ID XXXX has moved out of the authorized zone"
+    },
+    {
+        "icon": "bx bx-time-five",
+        "content": "The usage of chiller machine ID-XXX is near to five hours."
+    }
+]
